@@ -1,2 +1,1 @@
-vless://f3e6dbb3-bdec-414a-9a72-93780b47922d@23.185.0.28:80?mode=auto&path=%2F&security=&alpn=h3&encryption=none&host=www.fastlybic.com&fp=chrome&type=xhttp&sni=www.fastlybic.com#%F0%9F%87%A8%F0%9F%87%B5%20France
-vless://f3e6dbb3-bdec-414a-9a72-93780b47922d@23.185.0.28:80?mode=auto&path=%2F&security=&alpn=h3&encryption=none&host=www.fastlypanelbic.com&fp=chrome&type=xhttp&sni=www.fastlypanelbic.com#%F0%9F%87%AC%F0%9F%87%A7%20Kingdom
+vless://6412ef44-b4c5-4bde-9d2e-8c5cc00d3ffc@109.234.211.0:80:443?path=%2F&security=tls&alpn=http%2F1.1&encryption=none&host=viking.monkeyking99.ru&fp=chrome&type=ws&sni=viking.monkeyking99.ru#Sshvpn
