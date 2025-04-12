@@ -1,1 +1,1 @@
-vless://6412ef44-b4c5-4bde-9d2e-8c5cc00d3ffc@109.234.211.0:80:443?path=%2F&fragment=1,1,tlshello&security=tls&alpn=http%2F1.1&encryption=none&host=viking.monkeyking99.ru&fp=chrome&type=ws&sni=viking.monkeyking99.ru#Sshvpn
+vless://6412ef44-b4c5-4bde-9d2e-8c5cc00d3ffc@5.181.108.253:443?path=%2F&security=tls&alpn=http%2F1.1&encryption=none&host=ragnar.bmelikem.online&fp=chrome&type=ws&sni=ragnar.bmelikem.online#Sshvpn
