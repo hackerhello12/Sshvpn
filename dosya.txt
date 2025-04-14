@@ -1,1 +1,1 @@
-vless://6412ef44-b4c5-4bde-9d2e-8c5cc00d3ffc@5.181.108.253:443?path=%2F&security=tls&alpn=http%2F1.1&encryption=none&host=ragnar.bmelikem.online&fp=chrome&type=ws&sni=ragnar.bmelikem.online#Sshvpn
+vless://d92775c3-8175-4290-bb89-932d7534a0c4@5.159.103.151:443?path=%2F&security=tls&alpn=http%2F1.1&encryption=none&host=adger2.dota-clips.space&fp=chrome&type=ws&sni=adger2.dota-clips.space#Sshvpn
